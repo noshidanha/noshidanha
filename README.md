@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
+Here's a little bit about me:
 
 - 🌱 I’m currently learning Spring and NuxtJS
 - 👯 I’m looking to collaborate on any Macau based project.
